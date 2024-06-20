@@ -7,7 +7,7 @@ This is a Laravel-based currency converter application.
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/spatinki-01/currency-converter.git
-    cd your-repository-name
+    cd currency-converter
     ```
 
 2. **Copy `.env.example` to `.env`**:
